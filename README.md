@@ -12,8 +12,6 @@
     Código do curso NLW Heat 2021 onde é criado um front-end em ReactJS que conecta com sua conta do GitHub para postar uma mensagem sobre o evento.
 </h4>
 
-![DoWhile preview](.github/preview.png)
-
 ## Tecnologias
 
 Este projeto usa as seguintes tecnologias:
