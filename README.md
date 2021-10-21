@@ -1,7 +1,3 @@
-<div align="center">
-  <img src=".github/logo.svg" alt="DoWhile 2021 logo">
-</div>
-
 ## Do While 2021
 
 [![Author](https://img.shields.io/badge/author-evaldorcardoso-835AFD?style=flat-square)](https://github.com/josepholiveira)
